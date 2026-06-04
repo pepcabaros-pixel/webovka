@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <title>Moje Webovka</title>
+</head>
+<body>
+    <h1>Ahoj! Tohle je moje první webová aplikace.</h1>
+    <p>Web úspěšně běží a je propojený s GitHubem.</p>
+</body>
+</html>
